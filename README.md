@@ -47,7 +47,7 @@ and should be directed to [Lynton Appel][la_email].
 ### Installation
 
 Installing the C++ interface requires the additional flag
---enable-netcdf-4 to be used during the configure stage of the
+--enable-cxx-4 to be used during the configure stage of the
 installation, for example enter
 
       ./configure --enable-cxx-4 [plus other options]
